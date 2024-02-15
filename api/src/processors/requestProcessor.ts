@@ -1,7 +1,3 @@
-// Funcction to handle requests from request.ts
-
-function handleRequest() {
-    return "Hello World!";
-}
+const handleRequest = () => { "Hello World!"}
 
 export { handleRequest };

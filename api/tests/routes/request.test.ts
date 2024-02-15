@@ -1,4 +1,4 @@
-import { describe, expect, it, test } from 'bun:test'
+import { describe, expect, test } from '@jest/globals'
 
 import { Elysia } from 'elysia'
 import { request } from '../../src/routes/request'
