@@ -6,6 +6,6 @@
 
 ## Contributors: Vinay Viswanathan, Jack Heuberger, William Sepesi
 
-## TA: <Insert Here>
+## TA: Raj Thakkar
 
 ## Instructions/Link to access: <insert here>
